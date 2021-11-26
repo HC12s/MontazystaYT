@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MontazystaYT
+- 👋 Hi, I’m @HC12
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning unity & java & javascript
 - 💞️ I’m looking to collaborate on ...
